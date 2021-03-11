@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+body{
+    text-align: center;
+    background-color:lavender ;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.paint-canvas{
+ display: block;
+ border: 5px solid black;
+ margin: 40px auto;
+}
+.color-picker{
+    margin:20px 20px 0px 20px;
+}
+canvas{
+    background-color: white;
+}
